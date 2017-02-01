@@ -1,0 +1,21 @@
+# gitignore for titanic kaggle challenge
+
+# ignore all compile files
+*.pyc
+
+# ignore all data files
+*.csv
+
+# ignore all swap files
+*.swp
+
+# ignore ipython checkpoints
+.ipynb_checkpoints
+
+# ignore zip files
+*.zip
+
+# ignore images
+*.png
+*.jpg
+*jpeg
